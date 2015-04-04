@@ -1,0 +1,26 @@
+package edu.vaneduc.patrones.creacion.builder;
+
+
+public class ScooterBuilder extends VehicleBuilder {
+
+	private Vehicle vehicle=new Vehicle(VehicleEnum.SCOTTER);
+	@Override
+	public void buildFrame(VehicleBuilder builder) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void buildDoor(VehicleBuilder builder) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void buildEngine(VehicleBuilder builder) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+}

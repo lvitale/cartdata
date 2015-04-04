@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="edu.vaneduc.patrones.creacion.singleton.Singleton"/>
+<fullyQualifiedTypeName name="edu.vaneduc.patrones.creacion.factorymetthod.Alumno"/>
+<fullyQualifiedTypeName name="edu.vaneduc.patrones.creacion.factorymetthod.AlumnoFactory"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="edu.vaneduc.patrones.creacion.builder.Vehicle"/>
+<fullyQualifiedTypeName name="edu.vaneduc.patrones.creacion.builder.VehicleEnum"/>
+<fullyQualifiedTypeName name="edu.vaneduc.patrones.creacion.builder.VehicleBuilder"/>
+<fullyQualifiedTypeName name="edu.vaneduc.patrones.creacion.builder.CarBuilder"/>
+<fullyQualifiedTypeName name="edu.vaneduc.patrones.creacion.builder.ScooterBuilder"/>
+</qualifiedTypeNameHistroy>

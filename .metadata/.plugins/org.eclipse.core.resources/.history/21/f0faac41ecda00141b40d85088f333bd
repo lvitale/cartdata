@@ -1,0 +1,5 @@
+package edu.vaneduc.patrones.creacion.builder;
+
+public interface VehicleEnum {
+
+}

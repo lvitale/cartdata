@@ -1,0 +1,6 @@
+package edu.vaneduc.patrones.creacion.builder;
+
+public enum VehicleEnum {
+
+	SCOTTER,CAR
+}

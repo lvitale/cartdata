@@ -5,10 +5,11 @@ import java.util.Map;
 
 public class Vehicle {
 
-	private String type;
+	private VehicleEnum type;
+	
 	private Map<String,String> parts = new HashMap<String,String>();
 	
-	public Vehicle(String type){
+	public Vehicle(VehicleEnum type){
 		this.type=type;
 	}
 
@@ -19,8 +20,15 @@ public class Vehicle {
 	public void setParts(Map<String, String> parts) {
 		this.parts = parts;
 	}
-	
-	
-	
-	
+	public VehicleEnum getType() {
+		return type;
+	}
+
+	public void setType(VehicleEnum type) {
+		this.type = type;
+	}
+	public void addParts(String key,String value){
+		parts.put(key, value);
+	}
+
 }

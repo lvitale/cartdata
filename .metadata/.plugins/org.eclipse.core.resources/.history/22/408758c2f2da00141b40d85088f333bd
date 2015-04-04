@@ -1,0 +1,14 @@
+package edu.vaneduc.patrones.creacion.builder;
+
+public abstract class VehicleBuilder {
+
+	public void construct(VehicleBuilder builder){
+		buildFrame(builder);
+		buildDoor(builder);
+		buildEngine(builder);
+	}
+	
+	public abstract void buildFrame(VehicleBuilder builder);
+	public abstract void buildDoor(VehicleBuilder builder);
+	public abstract void buildEngine(VehicleBuilder builder);
+}
